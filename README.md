@@ -1,4 +1,4 @@
-# Portfolioapp:
+# Portfolioapp: 
 ### A simple web application to showcase skills while seeking full stack development knowledge.
 
 Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
