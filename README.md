@@ -12,4 +12,4 @@ I have also mixed in a personal book inventory application that is also written 
 [![Alt text for your video](https://user-images.githubusercontent.com/3903554/31397214-0da2135a-adab-11e7-85f7-8c79900507b3.PNG)](http://www.youtube.com/watch?v=juIJGBxj-4w)
 
 # How to
-
+![python-code](https://user-images.githubusercontent.com/3903554/31398233-e22cb29a-adad-11e7-8f60-33673702d029.PNG)
