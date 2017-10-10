@@ -3,3 +3,4 @@ This is a simple web application written in python with flask-microframework tog
 
 I have also mixed in a personal book inventory application that is also written in python with the help of php and mysql.  More about this project can be found here:  https://github.com/SEDoug/bookapp
 
+I will use this web application called portfolioapp to help showcase my projects and skills learned during the process.
