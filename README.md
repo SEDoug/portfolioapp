@@ -1,6 +1,6 @@
 ### Portfolioapp: Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
 
-A simple web application to showcase skills while seeking full stack development knowledge.
+# A simple web application to showcase skills while seeking full stack development knowledge.
 
 Seeking a broader field and desire to do work in full stack development.
 
