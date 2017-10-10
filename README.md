@@ -1,4 +1,4 @@
-### Portfolioapp: Created by @DougMacGregor || http://doug-macgregor.webflow.io/
+### Portfolioapp: Created by @DougMacGregor || http://doug-macgregor.webflow.io/ <br>
 
 A simple web application to showcase skills while seeking full stack development knowledge.
 
