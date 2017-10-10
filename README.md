@@ -10,6 +10,4 @@ I have also mixed in a personal book inventory application that is also written 
 
 ![capture](https://user-images.githubusercontent.com/3903554/31397214-0da2135a-adab-11e7-85f7-8c79900507b3.PNG)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IS96YlYGE30" frameborder="0" allowfullscreen></iframe>
-
-[![Alt text for your video](https://user-images.githubusercontent.com/3903554/31397214-0da2135a-adab-11e7-85f7-8c79900507b3.PNG)](http://www.youtube.com/watch?v=IS96YlYGE30)
+[![Alt text for your video](https://user-images.githubusercontent.com/3903554/31397214-0da2135a-adab-11e7-85f7-8c79900507b3.PNG)](http://www.youtube.com/watch?v=juIJGBxj-4w)
