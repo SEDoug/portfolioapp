@@ -9,10 +9,9 @@ This is a data driven web application written in python, flask-microframework, a
 Here are some images
 
 ## main
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/Screenshot%20from%202017-10-19%2020-44-01.png)
+![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/login_success_dashboard.png)
 
 ## about | dashboard | adding | editing articles
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/about_page.png)
-![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/login_success_dashboard.png)
+
 ![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/adding_article.png)
 ![python-code](https://raw.githubusercontent.com/SEDoug/portfolioapp/master/static/editing_article.png)
